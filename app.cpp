@@ -7,6 +7,6 @@ using namespace std;
 
 main()
 {
-	cout << "give me a bottle of rum!" << endl;
+	cout << "Program ready! edit sources and enjoy" << endl;
 	return 0;
 }

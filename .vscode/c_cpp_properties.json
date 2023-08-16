@@ -29,6 +29,7 @@
                 "/usr/lib/x86_64-linux-gnu/glib-2.0/include"
             ],
             "defines": [],
+            //run command => whereis g++ &according to output fill path below
             "compilerPath": "/usr/bin/g++",
             "cStandard": "c17",
             "cppStandard": "c++14",

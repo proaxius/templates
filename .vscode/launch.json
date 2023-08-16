@@ -24,6 +24,7 @@
                     }
                 ],
                 "preLaunchTask": "",
+                //change this path according to usr/bin run command => whereis gdb
                 "miDebuggerPath": "/usr/bin/gdb"
             
         }
