@@ -7,6 +7,8 @@ change location of compiler path in c_cpp_properties.json & launch.json , tasks.
 create issues  or start a discussion if anything doesn't goes as planned i will respond 
  
  I am still working on stuff untill then enjoy this art-work i created ! Have a Good Day
+ _________________________________________________________________________________________________________________________________
+ ---------------------------------------------------------------------------------------------------------------------------------
                                            -------------
                                            -------------
                                            ----
